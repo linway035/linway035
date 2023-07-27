@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently participating Web Development program
+- 🌱 I’m currently learning backend web development with Node.js and Express.
+- ⚡ Interested in data analysis and database design.
